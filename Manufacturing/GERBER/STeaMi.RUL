@@ -1,0 +1,30 @@
+DRC Rules Export File for PCB: D:\K_drive\Serveur\R&D\Bureau d'étude\ST\STM01 - I-NOVMICRO\2 - Conception\1 - Electronique\Source\STE01-Carte_Education-VerB1-Safe.PcbDoc
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint_2|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint_1|Scope=Board|Minimum=6.30
+RuleKind=ShortCircuit|RuleName=J8|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Schematic Width Constraint_4|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=U10|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=GND_LAYER2|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=3V3_LAYER_1|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=HEADER_JTAG|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=PAD Microbit|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=POWER|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=GND_BOTTOM|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=DC/DC_GND|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm_Thermalpad|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=PAD header|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Microphone|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=GND_TOP|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Schematic Width Constraint_3|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Schematic Width Constraint_2|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=10.00
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=6.89
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=6.89
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91

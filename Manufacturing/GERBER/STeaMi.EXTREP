@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: STE01-Cart_Education-VerB1.GBR   20/09/2024  14:58:21
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Mid-Layer 1                             
+.G2                 Mid-Layer 2                             
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM13               Top Assembly                            
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------

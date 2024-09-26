@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\K_drive\Serveur\R&D\Bureau d'étude\ST\STM01 - I-NOVMICRO\2 - Conception\1 - Electronique\Source\STE01-Carte_Education-VerB1-Safe.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ste01-carte_education-verb1-safe-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ste01-carte_education-verb1-safe-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
