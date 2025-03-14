@@ -3,6 +3,10 @@
 Welcome to the repository for the **STeaMi Reference Design**. This repository contains all the electronic and mechanical design files for the STeaMi learning board, a versatile and feature-rich platform for teaching programming and electronics.
 
 ## Overview
+[STeaMi](https://www.steami.cc/) is an educational board aimed at introducing students, educators, and enthusiasts to the basics of programming, electronics, and STEM concepts. The board is designed with simplicity and versatility in mind, providing a powerful platform for learning through hands-on experience.
+
+<img src="https://github.com/steamicc/assets/blob/main/Steami.png?raw=true"/>
+
 The **STeaMi board** is built around the **STM32WB55 microcontroller** and is designed to offer:
 
 - **Connectivity:** BLE (Bluetooth Low Energy) communication capabilities.
